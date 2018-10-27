@@ -1,0 +1,18 @@
+{
+  "name": "coder_londa",
+  "version": "1.0.0",
+  "description": "Aise hi bakchodi",
+  "main": "script.js",
+  "dependencies": {
+    "browserify": "^16.2.3",
+    "live-server": "^1.2.0",
+    "lodash": "^4.17.11",
+    "react": "^16.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "live-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
